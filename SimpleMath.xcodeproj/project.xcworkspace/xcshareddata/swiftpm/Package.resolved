@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CornerStacks",
+        "repositoryURL": "https://github.com/filiplazov/CornerStacks.git",
+        "state": {
+          "branch": null,
+          "revision": "ab944879891c48ff53459a14c813b139bd24fa17",
+          "version": "0.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
